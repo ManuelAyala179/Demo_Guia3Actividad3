@@ -94,7 +94,8 @@ public class coldeperros {
                 System.out.println("    " + perrito.ingRaza());
             }
         }
-        System.out.println("La localidad " + nomLoc + " tiene " + cont + " perro(s) ");
+        System.out.println("La localidad " + nomLoc + " tiene " + cont
+                + " perro(s) ");
     }
 
     private static void PerrosxRaza() {
